@@ -31,7 +31,7 @@
 $ git clone https://github.com/crisfeitosa/dailyDiet.git
 
 # Entrar no diretório
-$ cd ToDoList
+$ cd dailyDiet
 
 # Instalar as dependências
 $ npm install
